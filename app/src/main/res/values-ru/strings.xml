@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Math pro app</string>
+    <string name="start_game">Начать игру</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="timer">Время</string>
+    <string name="question_field">question field</string>
+    <string name="defoult_option">9999</string>
+    <string name="end">Конец игры!</string>
+    <string name="correct_answers">Верных\nответов:</string>
+    <string name="record">Рекорд:</string>
+    <string name="score">Счёт:</string>
+    <string name="retry">Ещё раз!</string>
+    <string name="home">Назад</string>
+    <string name="time_out">время вышло!</string>
+    <string name="count_of_questions">/20</string>
+    <string name="result">Результат:</string>
+</resources>
